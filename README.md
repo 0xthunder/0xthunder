@@ -1,4 +1,4 @@
-# I’m currently learning Python and SQL.
+### I’m currently learning Python and SQL.
 ---
 <h2 align='center'>Languages, Software and Tools</h2>
 
