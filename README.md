@@ -8,6 +8,7 @@
    <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" style="padding-right:10px;" /></a>
    <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" style="padding-right:10px;" /></a>
    <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="padding-right:10px;" /></a>
 </p>
 
 
